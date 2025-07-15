@@ -1,0 +1,9 @@
+[Feishu]
+app_id = your_app_id
+app_secret = your_app_secret
+auth_url = https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal
+docx_url = your_docx_url
+
+[Settings]
+get_ipv6_url = http://6.ipw.cn
+log_file = syncip.log
