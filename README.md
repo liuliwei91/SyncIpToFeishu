@@ -13,7 +13,7 @@
 - 必须拥有ipv6地址，包括本地和远程端设备
 - Python 3.6+
 - 依赖包：`requests` (通过`requirements.txt`安装)
-- 注册飞书企业测试账号，创建测试应用，创建云文档，将测试应用添加为云文档的协作者，登录：https://open.feishu.cn/,获取app_id、app_secret，通过权限管理开通相关权限，通过api创建云文档的块，详情查看https://open.feishu.cn/document/server-docs/docs/docs/docx-v1/guide#de57678b,可以通过右上角的“API调试台”进行api测试
+- 注册飞书企业测试账号，创建测试应用，创建云文档，将测试应用添加为云文档的协作者，登录：<https://open.feishu.cn/>，获取app_id、app_secret，通过权限管理开通相关权限，通过api创建云文档的块，详情查看<https://open.feishu.cn/document/server-docs/docs/docs/docx-v1/guide#de57678b>，可以通过右上角的“API调试台”进行api测试
 
 ## 安装与配置
 
